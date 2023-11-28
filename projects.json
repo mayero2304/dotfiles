@@ -1,0 +1,96 @@
+{
+    "directories": [
+        {
+            "name": "Rust",
+            "directory": "~/EXTERNAL_DISK/mciro/code/rust",
+            "icon": " ",
+            "color": "#cd9747"
+        },
+        {
+            "name": "Nginx",
+            "directory": "/srv/http",
+            "icon": "󰒋 ",
+            "color": "#ffff00"
+        },
+        {
+            "name": "VUE",
+            "directory": "~/EXTERNAL_DISK/mciro/code/VUEJS",
+            "icon": "󰡄 ",
+            "color": "#30ff24"
+        },
+        {
+            "name": "Wordpress",
+            "directory": "~/EXTERNAL_DISK/mciro/code/wordpress",
+            "icon": " ",
+            "color": "#21759b"
+        },
+        {
+            "name": "IoT",
+            "directory": "~/EXTERNAL_DISK/mciro/code/iot",
+            "icon": "󰢚 ",
+            "color": "#cd9747"
+        },
+        {
+            "name": "Docker",
+            "directory": "~/EXTERNAL_DISK/mciro/code/docker",
+            "icon": " ",
+            "color": "#ffffff"
+        },
+        {
+            "name": "NestJS",
+            "directory": "~/EXTERNAL_DISK/mciro/code/nestjs",
+            "icon": " ",
+            "color": "#b12e18"
+        },
+        {
+            "name": "ESP32",
+            "directory": "~/EXTERNAL_DISK/mciro/code/esp32",
+            "icon": " ",
+            "color": "#cd9747"
+        },
+        {
+            "name": "Go",
+            "directory": "~/EXTERNAL_DISK/mciro/code/go",
+            "icon": " ",
+            "color": "#00a3cc"
+        },
+        {
+            "name": "PHP",
+            "directory": "~/EXTERNAL_DISK/mciro/code/php",
+            "icon": " ",
+            "color": "#4e79be"
+        },
+        {
+            "name": "Laravel",
+            "directory": "~/EXTERNAL_DISK/mciro/code/laravel",
+            "icon": " ",
+            "color": "#f9322c"
+        },
+        {
+            "name": "PRICODE",
+            "directory": "~/EXTERNAL_DISK/mciro/code/PRICODE",
+            "icon": " ",
+            "color": "#f9322c"
+        },
+        {
+            "name": "Plugins",
+            "directory": "~/EXTERNAL_DISK/mciro/code/plugins",
+            "icon": " ",
+            "color": "#52b75d"
+        },
+        {
+            "name": "Javascript",
+            "directory": "~/EXTERNAL_DISK/mciro/code/javascript",
+            "icon": " ",
+            "color": "#5e79be"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Neovim",
+            "directory": "~/.config/nvim",
+            "icon": "",
+            "color": "#509a3a"
+        }
+    ]
+}
